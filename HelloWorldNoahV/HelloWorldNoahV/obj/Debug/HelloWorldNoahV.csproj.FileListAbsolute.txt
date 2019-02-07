@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\bin\Debug\HelloWorldNoahV.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\bin\Debug\HelloWorldNoahV.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\bin\Debug\HelloWorldNoahV.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.frmHelloWorld.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\HelloWorldNoahV\HelloWorldNoahV\obj\Debug\HelloWorldNoahV.pdb

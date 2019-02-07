@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\obj\Debug\SchoolAppNoahV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\obj\Debug\SchoolAppNoahV.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\obj\Debug\SchoolAppNoahV.frmSchoolApp.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\obj\Debug\SchoolAppNoahV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\bin\Debug\SchoolAppNoahV.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\bin\Debug\SchoolAppNoahV.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\bin\Debug\SchoolAppNoahV.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\obj\Debug\SchoolAppNoahV.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Introduction\SchoolAppNoahV\SchoolAppNoahV\obj\Debug\SchoolAppNoahV.pdb
