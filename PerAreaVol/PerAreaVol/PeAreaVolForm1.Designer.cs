@@ -1,6 +1,6 @@
-﻿namespace HelloWorldInt
+﻿namespace PerAreaVol
 {
-    partial class frmHelloWorldInt
+    partial class frmPeAreaVol
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // frmHelloWorldInt
+            // frmPeAreaVol
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "frmHelloWorldInt";
-            this.Text = "Hello International By Naoh Voroney";
+            this.Name = "frmPeAreaVol";
+            this.Text = "Perimiter, Area, Volume By Noah Voroney";
+            this.Load += new System.EventHandler(this.PeAreaVolForm1_Load);
             this.ResumeLayout(false);
 
         }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace HelloWorldInt
+namespace PerAreaVol
 {
-    static class HelloWorldIntProgram
+    static class PerAreaVol
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace HelloWorldInt
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmHelloWorldInt());
+            Application.Run(new frmPeAreaVol());
         }
     }
 }
